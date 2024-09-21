@@ -19,56 +19,22 @@
     {
       "name": "Github",
       "url": "https://github.com/myronkaifung"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/myronfung/"
     }
   ],
   "topbarCtaButton": {
     "name": "Github",
     "url": "https://github.com/myronkaifung"
   },
-  "anchors": [
-    {
-      "name": "Github",
-      "icon": "github",
-      "url": "https://github.com/myronkaifung"
-    },
-    {
-      "name": "Linkedin",
-      "icon": "linkedin",
-      "url": "https://www.linkedin.com/in/myronfung/"
-    }
-  ],
   "navigation": [
     {
       "group": "About Me",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "quickfacts",
+        "quickstart"
       ]
     }
   ],
