@@ -31,7 +31,7 @@
   },
   "navigation": [
     {
-      "group": "About Me",
+      "group": "Resume",
       "pages": [
         "quickfacts",
         "quickstart"
