@@ -34,8 +34,7 @@
       "group": "About Me",
       "pages": [
         "quickfacts",
-        "quickstart",
-        "development"
+        "professional_experiences",
       ]
     }
   ],
